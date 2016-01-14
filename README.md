@@ -3,10 +3,15 @@ this project can be use to create some images of one singal chinese character or
 
 #dependencies
 c++11
+
 freetype
+
 glog
+
 leveldb
+
 opencv
+
 boost
 
 #usage
