@@ -210,7 +210,7 @@ int main() {
     //    font.setPen(cv::Point(20, 20));
     //    //font.setMatrix(0.5);
     //    font.setFontSize(64);
-    ////    std::wstring t = L"王青泽";
+    ////    std::wstring t = L"王莫某";
     ////    std::wstring t = L"王";
     //
     //
